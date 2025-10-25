@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hs745)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hs745&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![](https://raw.githubusercontent.com/hs745/hs745/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
